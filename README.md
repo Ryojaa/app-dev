@@ -8,4 +8,5 @@ My first repository
 >
 >Enter Monkey D. Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece.
 
-![One Piece] (https://myanimelist.net/anime/21/One_Piece/pics)
+![One Piece](https://github.com/Ryojaa/app-dev/assets/133957954/4ed01aaf-a909-42f0-8b7e-436fb8348adc)
+
